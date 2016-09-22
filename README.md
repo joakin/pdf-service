@@ -1,5 +1,7 @@
 # pdf-service
 
+![Project frozen](https://img.shields.io/badge/status-frozen-blue.png)
+
 Node.js service that renders urls as pdfs.
 
 ## Usage
